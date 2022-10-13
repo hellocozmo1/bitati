@@ -1,4 +1,4 @@
-# bitati
+# binati
 binati a hosted website on dogeweb.co.uk
 
 Status:
